@@ -1,2 +1,2 @@
 # hook_test
-test check2
+test check3
