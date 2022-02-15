@@ -1,2 +1,2 @@
 # hook_test
-check3
+jenkins check
